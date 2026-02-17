@@ -1,0 +1,21 @@
+{
+    "title": "Programming: Literals",
+    "slug": "programming-literals",
+    "description": "Literals are fixed values written directly in code, contrasted with variables which are names that refer to values.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "programming-variables",
+        "programming-strings",
+        "programming-booleans",
+        "programming-integers-and-floats",
+        "programming-expressions"
+    ],
+    "related": [
+    ]
+}
